@@ -1,6 +1,6 @@
 # Women’s Safety App — UI/UX Prototype
 
-This repository contains a visual prototype for a mobile app designed to support women's safety in public spaces. The prototype was created using Figma as part of a "tech for good" initiative, focusing on how design and technology can empower vulnerable communities.
+This repository contains a visual prototype for a mobile app designed to support women's safety in public spaces. The prototype was created using Figma as part of a "Tech for Good" initiative, focusing on how design and technology can empower vulnerable communities.
 
 ## 🧠 Project Purpose
 
